@@ -1,4 +1,4 @@
-# Онлайн-сервис "Delivery Food" - Учебный проект
+# Онлайн-сервис "Delivery Food"
 
 Учебный проект доступен по адресу [https://sonikflame.github.io/delivery-food/](https://sonikflame.github.io/delivery-food/).
 
